@@ -1,8 +1,7 @@
 {
   "name": "sparkles-fortunes",
   "version": "1.0.0",
-  "description": "Sparkles Fortunes - Ultimate Drag Bar Game Show App",
-  "main": "index.js",
+  "description": "Sparkles Fortunes - Ultimate Drag Show Bar Game!",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,13 +9,13 @@
   },
   "keywords": [],
   "author": "Chizzy Bear",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "@vitejs/plugin-react": "^4.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^4.0.0"
+    "vite": "^4.5.0",
+    "@vitejs/plugin-react": "^4.0.0"
   }
 }
